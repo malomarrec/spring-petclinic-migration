@@ -23,6 +23,7 @@
 ##############################################################################
 
 # Attempt to set APP_HOME
+gradle -version
 # Resolve links: $0 may be a link
 PRG="$0"
 # Need this for relative symlinks.
